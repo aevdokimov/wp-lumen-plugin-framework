@@ -7,7 +7,7 @@
  *
  * Plugin Name:       WP Lumen Plugin Framework
  * Plugin URI:        https://github.com/bayareawebpro/wp-lumen-plugin-framework/
- * Description:       (Lumen Framework 5.8)
+ * Description:       (Lumen Framework 9.0)
  * Version:           1.0
  * Author:            Some Dev
  * Author URI:        http://www.SomeDev.com/

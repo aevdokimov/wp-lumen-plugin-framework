@@ -1,3 +1,5 @@
+Fix [this bug](https://github.com/barryvdh/laravel-debugbar/issues/1279#issuecomment-1062777296) manually unti it's patched.
+
 # WP Lumen Plugin Framework Starter
 
 This repository is an example of how to integrate Lumen Framework within a Wordpress Plugin. 
